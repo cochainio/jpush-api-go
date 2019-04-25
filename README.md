@@ -8,12 +8,6 @@
 ## 兼容版本
 +  Golang 1.12
 
-## 环境配置
-
-```bash
-GO111MODULE=on go get github.com/cochain/jpush-api-golang
-```
-
 ## 代码样例
 
 >   代码样例在 jpush-api-golang 中的 example 文件夹中，[点击查看所有 example ](https://github.com) 。
