@@ -1,17 +1,17 @@
-# JPush API Golang
+# JPush API for Go
 
 ## 概述
-这是 JPush REST API 的 Golang 版本封装开发包，不是由极光推送官方提供的，一般支持最新的 API 功能。
+这是 JPush REST API 的 Golang 版本封装开发包，支持最新的 API 功能。
 
 对应的 REST API 文档：<https://docs.jiguang.cn/jpush/server/push/server_overview/>
 
 ## 兼容版本
-+  Golang 1.10
++  Golang 1.12
 
 ## 环境配置
 
 ```bash
-go get github.com/cochain/jpush-api-golang
+GO111MODULE=on go get github.com/cochain/jpush-api-golang
 ```
 
 ## 代码样例
